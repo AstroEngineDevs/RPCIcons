@@ -5,7 +5,7 @@
   <br>
    <h1>Screenshots</h1>
    <h3>
-    <img style="border-radius:10px" src="src/ninja.png"><br>
+    <img style="border-radius:10px" src="ninja.png"><br>
    </h3>
    <hr>
 </div>
